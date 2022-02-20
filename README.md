@@ -1,4 +1,4 @@
-# TW-stock-wed-scrap 
+# TW-stock-web-scrap 
 This repository is for data scraping of TW stock information from Taiwan Stock Exchange and Taipei Exchange. 
 I used requests, pandas, os, matplotlib, and plotly for this scraping project, and carculate GVI per share.
 
