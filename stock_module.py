@@ -122,20 +122,6 @@ def get_GVI(year,season,Date): #year:民國 ex:110 ; Year:西元
     return plot
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
