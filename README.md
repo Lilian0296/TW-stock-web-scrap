@@ -25,7 +25,7 @@ get_stockprice(Date) # ex: get_stockinf(20200212) ; Date: Common Era+ Month+ dat
 
 ### Get GVI: return a csv with stock information and growth value index (result_summary.csv)
 ```Python
-get_GVI(year,season,Date) # ex: get_GVI(110,1,20210212) //python
+get_GVI(year,season,Date) # ex: get_GVI(110,1,20210215) //python
 ``` 
 
 ## Data source
